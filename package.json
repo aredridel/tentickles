@@ -29,7 +29,7 @@
     "grunt-copy-to": "0.0.10",
     "grunt-dustjs": "^1.2.1",
     "grunt-mocha-cli": "^1.9.0",
-    "mocha": "^1.17.0",
+    "mocha": "^3.0.1",
     "supertest": "^0.8.2"
   }
 }
