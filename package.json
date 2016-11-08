@@ -28,7 +28,7 @@
     "grunt-contrib-requirejs": "^1.0.0",
     "grunt-copy-to": "0.0.12",
     "grunt-dustjs": "^1.2.1",
-    "grunt-mocha-cli": "^2.1.0",
+    "grunt-mocha-cli": "^3.0.0",
     "mocha": "^3.0.2",
     "supertest": "^2.0.0"
   }
