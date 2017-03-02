@@ -12,7 +12,7 @@
     "adaro": "^1.0.4",
     "dustjs-helpers": "^1.2.0",
     "dustjs-linkedin": "^2.4.0",
-    "express": "~4.14.0",
+    "express": "~4.15.0",
     "kraken-js": "^2.1.0",
     "less": "^2.7.2",
     "makara": "^2.0.3",
