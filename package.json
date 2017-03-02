@@ -30,6 +30,6 @@
     "grunt-dustjs": "^1.2.1",
     "grunt-mocha-cli": "^3.0.0",
     "mocha": "^3.0.2",
-    "supertest": "^2.0.0"
+    "supertest": "^2.0.1"
   }
 }
